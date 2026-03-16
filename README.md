@@ -14,6 +14,7 @@ The system enables IT engineers to create, track, and resolve support tickets wh
 - Microsoft Entra ID (Azure AD)
 - Office365 Users Connector
 - Outlook Connector
+- Microsoft Graph API
 
 ---
 
@@ -91,6 +92,15 @@ The system monitors ticket resolution against defined SLA targets using the foll
 - SLA Target
 - Resolved Time
 - SLA Breached
+
+  
+---
+
+## Microsoft API Graph
+
+Get custom attributes from Microsoft Entra ID by using power automate and power apps.
+
+- employee id
 
 ---
 
